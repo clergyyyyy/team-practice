@@ -1,0 +1,6 @@
+#users > .user-10 {
+  color: red;
+}
+#users > .user-10:hover {
+  color: blue;
+}

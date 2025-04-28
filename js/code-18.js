@@ -1,0 +1,1 @@
+document.querySelector(".user-18").textContent="吳兆鴻";

@@ -1,0 +1,17 @@
+#users > .user-8 {
+  color: blue;
+  background-color: #76a2d7;
+  font-size: 24px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+#users > .user-8:hover {
+  background-color: #5b87c0;
+  transform: scale(1.05);
+}
